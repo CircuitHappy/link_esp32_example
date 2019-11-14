@@ -1,0 +1,3 @@
+[submodule "components/link_component/link"]
+	path = components/link_component/link
+	url = https://github.com/mathiasbredholt/link.git
