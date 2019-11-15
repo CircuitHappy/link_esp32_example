@@ -1,5 +1,7 @@
 # Example project for Ableton Link on ESP32
-Minimal example for using Ableton Link with esp-idf on ESP32. Tested with esp-idf release/v4.0.
+Minimal example for using Ableton Link with esp-idf on ESP32.\
+Tested with esp-idf release/v4.0.
+
 Developed as part of the T-1 algorithmic sequencer by [Torso Electronics](https://www.torsoelectronics.com/).
 
 ## Usage
