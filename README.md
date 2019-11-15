@@ -1,5 +1,5 @@
 # Example project for Ableton Link on ESP32
-Minimal example for using Ableton Link with esp-idf on ESP32
+Minimal example for using Ableton Link with esp-idf on ESP32. Tested with esp-idf release/v4.0.
 
 ## Usage
 * Setup esp-idf following the instructions on https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html
